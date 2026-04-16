@@ -1,0 +1,15 @@
+# Data directories (large HDF5/CSV files — not for version control)
+**/Hackathon_training/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
